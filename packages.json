@@ -1776,5 +1776,16 @@
     "description": "Memoize Nim functions",
     "license": "Apache License 2.0",
     "web": "https://github.com/andreaferretti/memo"
+  },
+
+  {
+    "name": "nim",
+    "url": "https://github.com/zielmicha/nim-binary",
+    "method": "git",
+    "tags": [],
+    "description": "Nim compiler binary",
+    "license": "MIT",
+    "web": "https://nimenv.org"
   }
+
 ]
