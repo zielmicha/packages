@@ -211,7 +211,7 @@
 
   {
     "name": "nimble",
-    "url": "git://github.com/nim-lang/nimble",
+    "url": "https://github.com/zielmicha/nimble",
     "method": "git",
     "tags": ["app", "binary", "package", "manager"],
     "description": "Nimble package manager",
